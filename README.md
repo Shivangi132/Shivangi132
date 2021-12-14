@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shivangi132
+- 👀 I’m interested in Development and Design
+- 💞️ I’m looking to collaborate on any exciting open source projects
+- 📫 How to reach me [email](mailto:shivangi132gupta@gmail.com)
